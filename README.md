@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kaylaanngrace
-- 👀 I’m interested ... in expanding my skill set
-- 🌱 I’m currently learning ... coding language and tools
+- 👋 Hi, I’m @kaylaanngrace -Ma(Kayla)
+- 👀 I’m interested in expanding my skill set in Web Development 
+- 🌱 I’m currently learning coding language, HTML, CSS and Git
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...gushier-zetas0x@icloud.com
+- 📫 How to reach me gushier-zetas0x@icloud.com or kaylaanngrace@gmail.com
 
 <!---
 kaylaanngrace/kaylaanngrace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
