@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kaylaanngrace -(Ma)Kayla
-- 👀 I’m interested in fullstack development 
-- 🌱 I’m currently reviewing the fundamentals of code.
-- 📫 How to reach me gushier-zetas0x@icloud.com or kaylaanngrace@gmail.com
+- 👋 Hi, I’m @kaylaanngrace - MaKayla
+- 👀 I’m interested in adding more to my portfolio.
+- 🌱 I’m a fullstack software engineer.
+- 📫 How to reach me kaylaanngrace@gmail.com
 
 <!---
 kaylaanngrace/kaylaanngrace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
