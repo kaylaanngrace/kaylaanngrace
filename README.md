@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaylaanngrace" target="blank"><img src="https://img.shields.io/twitter/follow/kaylaanngrace?logo=twitter&style=for-the-badge" alt="kaylaanngrace" /></a> </p>
 
-- 🔭 I’m currently working on [Project](https://github.com/kaylaanngrace)
+- 🔭 I’m currently working on [100Hours Project](https://github.com/kaylaanngrace/100Hours)
 
 - 🌱 I’m currently learning **ejs**
 
