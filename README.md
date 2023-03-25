@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Makayla</h1>
-<h3 align="center">Software Engineer at 100Devs</h3>
-<h3 align="center">Minnesota</h3>
+<h3 align="center">Software Engineer at 100Devs!</h3>
+<h3 align="center">Located in MN</h3>
+<p> As a software engineer, I want to change the world for the better, help make others' lives easier and keep the world connected. I want to be a part of the pivotal changings technology is bringing to our futures. </p>
 
 <p align="left"> <a href="https://twitter.com/kaylaanngrace" target="blank"><img src="https://img.shields.io/twitter/follow/kaylaanngrace?logo=twitter&style=for-the-badge" alt="kaylaanngrace" /></a> </p>
 
