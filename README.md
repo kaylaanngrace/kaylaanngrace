@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [100Hours Project](https://github.com/kaylaanngrace/100Hours)
 
-- 🌱 I’m currently learning **ejs**
+- 🌱 I’m currently learning **how to utilize ejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaylaanngrace](https://github.com/kaylaanngrace)
 
