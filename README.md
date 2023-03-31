@@ -11,11 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaylaanngrace](https://github.com/kaylaanngrace)
 
+- 🎓 Checkout my [lecture](https://docs.google.com/presentation/d/1fozt9RYhieDZqJq41NojVbNzbr5nLRusggvePFxPdzk/edit?usp=sharing)
+
 - 💬 Ask me about **coding journey**
 
 - 📫 How to reach me **kaylaanngrace@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Rtro2dCV0AcYQ6qjoXJ7FZFQ1yEJLtNG/edit?usp=sharing&ouid=114513325730820532780&rtpof=true&sd=true](https://docs.google.com/document/d/1Rtro2dCV0AcYQ6qjoXJ7FZFQ1yEJLtNG/edit?usp=sharing&ouid=114513325730820532780&rtpof=true&sd=true)
+- 📄 Know about my experiences: [Tech Resume](https://docs.google.com/document/d/1Rtro2dCV0AcYQ6qjoXJ7FZFQ1yEJLtNG/edit?usp=sharing&ouid=114513325730820532780&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I'm left-handed, but slightly ambidextrous**
 
