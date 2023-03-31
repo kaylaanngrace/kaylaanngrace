@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaylaanngrace](https://github.com/kaylaanngrace)
 
-- 🎓 Checkout my [lecture](https://docs.google.com/presentation/d/1fozt9RYhieDZqJq41NojVbNzbr5nLRusggvePFxPdzk/edit?usp=sharing)
+- 🎓 Checkout my [MVC lecture](https://docs.google.com/presentation/d/1fozt9RYhieDZqJq41NojVbNzbr5nLRusggvePFxPdzk/edit?usp=sharing)
 
 - 💬 Ask me about **coding journey**
 
