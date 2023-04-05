@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **how to utilize ejs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kaylaanngrace](https://github.com/kaylaanngrace)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://makwilsportfolio.netlify.app/contact.html)
 
 - 🎓 Checkout my [MVC lecture](https://docs.google.com/presentation/d/1fozt9RYhieDZqJq41NojVbNzbr5nLRusggvePFxPdzk/edit?usp=sharing)
 
