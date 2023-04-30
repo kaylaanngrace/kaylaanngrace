@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kaylaanngrace@gmail.com**
 
-- 📄 Know about my experiences: [Tech Resume](https://drive.google.com/file/d/12TITme4RMvoyxKt_7OCqWL0Fn_8UioPO/view?usp=sharing)
+- 📄 Know about my experiences: [Tech Resume](https://drive.google.com/file/d/1nSsnfRJYq8Cz5IRNCchcFFqu26zky1gY/view?usp=sharing)
 
 - ⚡ Fun fact **I'm left-handed, but slightly ambidextrous**
 
