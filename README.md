@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaylaanngrace" target="blank"><img src="https://img.shields.io/twitter/follow/kaylaanngrace?logo=twitter&style=for-the-badge" alt="kaylaanngrace" /></a> </p>
 
-- 🔭 I’m currently working on a snake game :)
+- 🔭 I’m currently working on [An Apartment Landing Page](https://github.com/kaylaanngrace/apartmentLandingPage) :)
 
 - 🌱 I’m currently learning **networking skills**
 
@@ -13,7 +13,7 @@
 
 - 🎓 Checkout my [MVC lecture](https://docs.google.com/presentation/d/1fozt9RYhieDZqJq41NojVbNzbr5nLRusggvePFxPdzk/edit?usp=sharing)
 
-- 💬 Ask me about **coding journey**
+- 💬 Ask me about **my daily leetcode**
 
 - 📫 How to reach me **kaylaanngrace@gmail.com**
 
