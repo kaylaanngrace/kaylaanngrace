@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [An Apartment Landing Page](https://github.com/kaylaanngrace/apartmentLandingPage) :)
 
-- 🌱 I’m currently learning **networking skills**
+- 🌱 I’m currently learning **how to better my communication skills**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://makwilsportfolio.netlify.app/)
 
