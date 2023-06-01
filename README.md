@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaylaanngrace" target="blank"><img src="https://img.shields.io/twitter/follow/kaylaanngrace?logo=twitter&style=for-the-badge" alt="kaylaanngrace" /></a> </p>
 
-- 🔭 I’m currently working on [An Apartment Landing Page](https://github.com/kaylaanngrace/apartmentLandingPage) :)
+- 🔭 I’m currently working on strengthen my mindset as a developer :)
 
 - 🌱 I’m currently learning **how to better my communication skills**
 
